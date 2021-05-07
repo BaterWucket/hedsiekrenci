@@ -1,6 +1,8 @@
 
 HedSieKrenci v1.2
 
+Strona projektu: https://github.com/BaterWucket/hedsiekrenci
+
 Dodano:
 
 - Skalowanie obrazków
