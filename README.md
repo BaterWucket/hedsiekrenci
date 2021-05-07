@@ -1,18 +1,12 @@
 
-# HedSieKrenci v1.2.1
+# HedSieKrenci v1.2.2
 
 Strona projektu: https://baterwucket.github.io/hedsiekrenci/
 
 ## Dodano:
 
-- Muzyczka odtwarza się automatycznie na działających przeglądarkach (jeśli muzyczka nie odtworzy się automatycznię trzeba włączyć muzykę panelem w lewym górnym rogu)
-- Skalowanie obrazków
-- Muzyczkę
+- Faviconę
 
-
-###### Lista działających przeglądarek: (muzyczka włącza się automatycznie)
- - Opera,
- - Microsoft Edge
 
 ## Problemy:
 - Muzyczka nie działa na telefonach
@@ -24,3 +18,21 @@ Strona projektu: https://baterwucket.github.io/hedsiekrenci/
 - [ ] Dodanie licznika odwiedzin strony
 - [ ] Wrzucenie zmian na github'a
 - [ ] Stworzenie serwera discord?
+
+
+## Historia Updatów
+HedSieKrenci v1.2.1
+-  Muzyczka odtwarza się automatycznie na działających przeglądarkach (jeśli muzyczka nie odtworzy się automatycznię trzeba włączyć muzykę panelem w lewym górnym rogu)
+
+HedSieKrenci v.1.2
+- Skalowanie obrazków
+- Muzyczka
+
+HedSieKrenci v.1
+- Powstanie Projektu
+
+## Dodatkowe
+
+Lista działających przeglądarek: (muzyczka włącza się automatycznie)
+ - Opera,
+ - Microsoft Edge
