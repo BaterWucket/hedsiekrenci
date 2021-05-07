@@ -1,0 +1,16 @@
+h1{
+    font-family: sans-serif;
+    color: #DCDAD1;
+    font-size: 155px;
+    text-transform: uppercase;
+}
+
+@keyframes animate{
+    from{
+        text-shadow: 0 0 20px white;
+    }
+    to{
+        text-shadow: 0 0 30 white,
+                    0 0
+    }
+}
