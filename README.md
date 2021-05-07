@@ -16,3 +16,11 @@ Strona projektu: https://baterwucket.github.io/hedsiekrenci/
  - Opera,
  - Microsoft Edge
  
+
+## Do zrobienia:
+- [ ] Muzyczka działa na telefonach
+- [ ] Dodanie zakładki "ustawienia"
+- [ ] Dodanie zakładki "informacje"
+- [ ] Dodanie licznika odwiedzin strony
+- [ ] Wrzucenie zmian na github'a
+- [ ] Stworzenie serwera discord?
