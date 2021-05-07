@@ -1,18 +1,18 @@
 
-# HedSieKrenci v1.2.2
+# HedSieKrenci v1.2.3
 
 Strona projektu: https://baterwucket.github.io/hedsiekrenci/
 
 ## Dodano:
 
-- Faviconę
+Muzyczka działa na telefonach jednak trzeba ją włączać tak jak w nieobsługiwanych przez automatyczne odtwarzanie przeglądarkach
 
 
 ## Problemy:
-- Muzyczka nie działa na telefonach
+
 
 ## Do zrobienia:
-- [ ] Muzyczka działa na telefonach
+- [x] Muzyczka działa na telefonach
 - [ ] Dodanie zakładki "ustawienia"
 - [ ] Dodanie zakładki "informacje"
 - [ ] Dodanie licznika odwiedzin strony
@@ -21,6 +21,9 @@ Strona projektu: https://baterwucket.github.io/hedsiekrenci/
 
 
 ## Historia Updatów
+HedSieKrenci v1.2.2
+- Favicona
+
 HedSieKrenci v1.2.1
 -  Muzyczka odtwarza się automatycznie na działających przeglądarkach (jeśli muzyczka nie odtworzy się automatycznię trzeba włączyć muzykę panelem w lewym górnym rogu)
 
