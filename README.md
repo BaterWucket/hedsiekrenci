@@ -2,8 +2,8 @@
 HedSieKrenci v1.2
 
 Dodano:
- -Skalowanie obrazków
 
+ -Skalowanie obrazków
 - Muzyczkę
 
 Problemy:
