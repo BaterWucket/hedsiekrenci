@@ -9,13 +9,13 @@ Strona projektu: https://baterwucket.github.io/hedsiekrenci/
 - Skalowanie obrazków
 - Muzyczkę
 
-## Problemy:
-- Muzyczka nie działa na telefonach
 
 ###### Lista działających przeglądarek: (muzyczka włącza się automatycznie)
  - Opera,
  - Microsoft Edge
- 
+
+## Problemy:
+- Muzyczka nie działa na telefonach
 
 ## Do zrobienia:
 - [ ] Muzyczka działa na telefonach
