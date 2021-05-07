@@ -8,3 +8,4 @@ Dodano:
 
 Problemy:
 - Żeby muzyczka się włączyła trzeba kliknąć na stronę
+- Muzyczka nie działa na telefonach
