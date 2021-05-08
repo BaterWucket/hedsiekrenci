@@ -1,7 +1,7 @@
 
 # HedSieKrenci v1.2.3
 
-Strona projektu: https://baterwucket.github.io/hedsiekrenci/
+Strona projektu: www.hedsiekrenci.xyz
 
 ## Dodano:
 
