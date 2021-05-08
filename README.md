@@ -5,11 +5,12 @@ Strona projektu: www.hedsiekrenci.xyz
 
 ## Dodano:
 
-Tekst zmieniający kolory, cień
+Tekst zmieniający kolory
 
 
 ## Problemy:
 
+Favicona nie działa
 
 ## Do zrobienia:
 - [x] Muzyczka działa na telefonach
