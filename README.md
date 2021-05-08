@@ -1,11 +1,11 @@
 
-# HedSieKrenci v1.2.4
+# HedSieKrenci v1.2.5
 
 Strona projektu: www.hedsiekrenci.xyz
 
 ## Dodano:
 
-Własna domena
+Tekst zmieniający kolory, cień
 
 
 ## Problemy:
@@ -22,6 +22,9 @@ Własna domena
 
 
 ## Historia Updatów
+HedSieKrenci v1.2.4
+- Własna Domena (www.hedsiekrenci.xyz)
+
 HedSieKrenci v1.2.3
 - Muzyczka działa na telefonach jednak trzeba ją włączać tak jak w nieobsługiwanych przez automatyczne odtwarzanie przeglądarkach
 
