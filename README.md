@@ -13,6 +13,7 @@ Muzyczka działa na telefonach jednak trzeba ją włączać tak jak w nieobsług
 
 ## Do zrobienia:
 - [x] Muzyczka działa na telefonach
+- [ ] Własna domena
 - [ ] Dodanie zakładki "ustawienia"
 - [ ] Dodanie zakładki "informacje"
 - [ ] Dodanie licznika odwiedzin strony
