@@ -1,12 +1,11 @@
 
-# HedSieKrenci v1.2.5
+# HedSieKrenci v1.2.6
 
 Strona projektu: www.hedsiekrenci.xyz
 
 ## Dodano:
 
-Tekst zmieniający kolory
-
+Readme
 
 ## Problemy:
 
@@ -23,6 +22,9 @@ Favicona nie działa
 
 
 ## Historia Updatów
+HedSieKrenci v1.2.5
+- Tekst zmieniający kolory
+
 HedSieKrenci v1.2.4
 - Własna Domena (www.hedsiekrenci.xyz)
 
