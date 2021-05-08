@@ -22,6 +22,9 @@ Własna domena
 
 
 ## Historia Updatów
+HedSieKrenci v1.2.3
+- Muzyczka działa na telefonach jednak trzeba ją włączać tak jak w nieobsługiwanych przez automatyczne odtwarzanie przeglądarkach
+
 HedSieKrenci v1.2.2
 - Favicona
 
