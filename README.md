@@ -1,11 +1,11 @@
 
-# HedSieKrenci v1.2.3
+# HedSieKrenci v1.2.4
 
 Strona projektu: www.hedsiekrenci.xyz
 
 ## Dodano:
 
-Muzyczka działa na telefonach jednak trzeba ją włączać tak jak w nieobsługiwanych przez automatyczne odtwarzanie przeglądarkach
+Własna domena
 
 
 ## Problemy:
@@ -13,7 +13,7 @@ Muzyczka działa na telefonach jednak trzeba ją włączać tak jak w nieobsług
 
 ## Do zrobienia:
 - [x] Muzyczka działa na telefonach
-- [ ] Własna domena
+- [x] Własna domena
 - [ ] Dodanie zakładki "ustawienia"
 - [ ] Dodanie zakładki "informacje"
 - [ ] Dodanie licznika odwiedzin strony
