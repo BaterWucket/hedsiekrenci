@@ -7,7 +7,7 @@ Strona Github: https://github.com/BaterWucket/hedsiekrenci/
 
 ## Dodano:
 
-Własna strona błędy 404 (przykład błędu: http://www.hedsiekrenci.xyz/404)
+Własna strona błędu 404 (przykład błędu: http://www.hedsiekrenci.xyz/404)
 
 ## Problemy:
 
