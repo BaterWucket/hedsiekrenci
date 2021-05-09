@@ -1,5 +1,5 @@
 
-# HedSieKrenci v1.2.6
+# HedSieKrenci v1.2.7
 
 Strona projektu: www.hedsiekrenci.xyz
 
@@ -7,7 +7,7 @@ Strona Github: https://github.com/BaterWucket/hedsiekrenci/
 
 ## Dodano:
 
-Readme
+Własna strona błędy 404 (przykład błędu: http://www.hedsiekrenci.xyz/404)
 
 ## Problemy:
 
@@ -24,6 +24,9 @@ Favicona nie działa
 
 
 ## Historia Updatów
+HedSieKrenci v1.2.6
+- Readme
+
 HedSieKrenci v1.2.5
 - Tekst zmieniający kolory
 
