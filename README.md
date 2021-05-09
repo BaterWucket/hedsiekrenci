@@ -2,6 +2,7 @@
 # HedSieKrenci v1.2.6
 
 Strona projektu: www.hedsiekrenci.xyz
+
 Strona Github: https://github.com/BaterWucket/hedsiekrenci/
 
 ## Dodano:
