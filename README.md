@@ -1,5 +1,5 @@
 
-# HedSieKrenci v1.2.8
+# HedSieKrenci v1.2.9
 
 Strona projektu: www.hedsiekrenci.xyz
 
@@ -7,7 +7,7 @@ Strona Github: https://github.com/BaterWucket/hedsiekrenci/
 
 ## Dodano:
 
-Małe zmianki w stronie błędu 404
+Nowy wygląd strony błędu 404
 
 ## Problemy:
 
@@ -24,6 +24,9 @@ Favicona nie działa
 
 
 ## Historia Updatów
+HedSieKrenci v1.2.8
+- Małe zmianki w stronie błędu 404
+
 HedSieKrenci v.1.2.7
 - Własna strona błędu 404 (przykład błędu: http://www.hedsiekrenci.xyz/404)
 
