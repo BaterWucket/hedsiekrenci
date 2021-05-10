@@ -7,11 +7,11 @@ Strona Github: https://github.com/BaterWucket/hedsiekrenci/
 
 ## Dodano:
 
-Nowy wygląd strony błędu 404
+- Nowy wygląd strony błędu 404
 
 ## Problemy:
 
-Favicona nie działa
+- Favicona nie działa
 
 ## Do zrobienia:
 - [x] Muzyczka działa na telefonach
