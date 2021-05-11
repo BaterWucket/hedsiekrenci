@@ -110,3 +110,11 @@
   .aligncenter {
     text-align: center;
 }
+
+.Kolorek {
+  background-color: #212121;
+}
+
+body {
+  background-image: url('Linie.png');
+}
