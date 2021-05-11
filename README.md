@@ -1,5 +1,5 @@
 
-# HedSieKrenci v1.3
+# HedSieKrenci v1.3.1
 
 Strona projektu: www.hedsiekrenci.xyz
 
@@ -7,7 +7,7 @@ Strona Github: https://github.com/BaterWucket/hedsiekrenci/
 
 ## Dodano:
 
-- Nowe słowa kluczowe przy wyszukiwaniu w google
+- Zmiany graficzne na całej stronie
 
 ## Problemy:
 
@@ -24,6 +24,9 @@ Strona Github: https://github.com/BaterWucket/hedsiekrenci/
 
 
 ## Historia Updatów
+HedSieKrenci v1.3
+- Nowe słowa kluczowe przy wyszukiwaniu w google
+
 HedSieKrenci v1.2.9
 - Nowy wygląd strony błędu 404
 
