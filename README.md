@@ -63,3 +63,5 @@ HedSieKrenci v.1
 Lista działających przeglądarek: (muzyczka włącza się automatycznie)
  - Opera,
  - Microsoft Edge
+
+Mój discord: Bater wucket#0792
