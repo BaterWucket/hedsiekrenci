@@ -9,9 +9,9 @@ Strona Github: https://github.com/BaterWucket/hedsiekrenci/
 
 - Zmiany graficzne na całej stronie
 
-## Problemy:
+- Naprawiono niedziałającą faviconę
 
-- Favicona nie działa
+## Problemy:
 
 ## Do zrobienia:
 - [x] Muzyczka działa na telefonach
