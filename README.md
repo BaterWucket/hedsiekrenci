@@ -1,5 +1,5 @@
 
-# HedSieKrenci v1.3.1
+# HedSieKrenci v1.3.2
 
 Strona projektu: www.hedsiekrenci.xyz
 
@@ -7,9 +7,9 @@ Strona Github: https://github.com/BaterWucket/hedsiekrenci/
 
 ## Dodano:
 
-- Zmiany graficzne na całej stronie
+- Dodano zakładkę Informacje
 
-- Naprawiono niedziałającą faviconę
+- Duże zmiany graficzne na stronie
 
 ## Problemy:
 
@@ -17,7 +17,7 @@ Strona Github: https://github.com/BaterWucket/hedsiekrenci/
 - [x] Muzyczka działa na telefonach
 - [x] Własna domena
 - [ ] Dodanie zakładki "ustawienia"
-- [ ] Dodanie zakładki "informacje"
+- [x] Dodanie zakładki "informacje"
 - [ ] Dodanie licznika odwiedzin strony
 - [ ] Wrzucenie zmian na github'a
 - [ ] Stworzenie serwera discord?
