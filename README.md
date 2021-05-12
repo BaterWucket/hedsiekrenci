@@ -1,5 +1,5 @@
 
-# HedSieKrenci v1.3.2
+# HedSieKrenci v1.3.3
 
 Strona projektu: www.hedsiekrenci.xyz
 
@@ -7,9 +7,7 @@ Strona Github: https://github.com/BaterWucket/hedsiekrenci/
 
 ## Dodano:
 
-- Dodano zakładkę Informacje
-
-- Duże zmiany graficzne na stronie
+- Malutki bugfix
 
 ## Problemy:
 
@@ -24,8 +22,13 @@ Strona Github: https://github.com/BaterWucket/hedsiekrenci/
 
 
 ## Historia Updatów
-HedSieKrenci v1.3.1
+HedSieKrenci v1.3.2
+- Dodano zakładkę Informacje
 
+- Duże zmiany graficzne na stronie
+
+
+HedSieKrenci v1.3.1
 - Naprawiono niedziałającą faviconę
 
 - Zmiany graficzne na stronie
