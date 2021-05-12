@@ -24,6 +24,12 @@ Strona Github: https://github.com/BaterWucket/hedsiekrenci/
 
 
 ## Historia Updatów
+HedSieKrenci v1.3.1
+
+- Naprawiono niedziałającą faviconę
+
+- Zmiany graficzne na stronie
+
 HedSieKrenci v1.3
 - Nowe słowa kluczowe przy wyszukiwaniu w google
 
