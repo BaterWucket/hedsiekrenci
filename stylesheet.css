@@ -115,6 +115,18 @@
   background-color: #212121;
 }
 
+.KolorekInfo {
+  background-color: #5a5959;
+}
+
 body {
-  background-image: url('Linie.png');
+  background-image: url('Obrazki/Linie.png');
+}
+
+.Butn {
+  border-radius: 12px;
+}
+
+.cursor{
+  cursor: url("Obrazki/HedHaker.gif"), url("Obrazki/Hed.cur"), default;
 }
