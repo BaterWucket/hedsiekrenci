@@ -1,5 +1,5 @@
 
-# HedSieKrenci v1.3.4
+# HedSieKrenci v1.3.5
 
 Strona projektu: www.hedsiekrenci.xyz
 
@@ -7,7 +7,7 @@ Strona Github: https://github.com/BaterWucket/hedsiekrenci/
 
 ## Dodano:
 
-- Optymalizacja strony po urządzenia mobilne
+- Dodano mapę witryny
 
 ## Problemy:
 
@@ -22,6 +22,9 @@ Strona Github: https://github.com/BaterWucket/hedsiekrenci/
 
 
 ## Historia Updatów
+HedSieKrenci v1.3.4
+- Optymalizacja strony po urządzenia mobilne
+
 HedSieKrenci v1.3.3
 - Malutki bugfix
  
