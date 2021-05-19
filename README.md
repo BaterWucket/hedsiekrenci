@@ -7,7 +7,7 @@ Strona Github: https://github.com/BaterWucket/hedsiekrenci/
 
 ## Dodano:
 
-- Optymalizacja strony pod urządzenia mobilne
+- Optymalizacja strony
 
 ## Problemy:
 
