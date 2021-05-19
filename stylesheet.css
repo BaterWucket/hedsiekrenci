@@ -1,13 +1,4 @@
-#rcorners1 {
-    border-radius: 25px;
-    background: rgb(65, 60, 60);
-    padding: 12px; 
-    width: 55px;
-    height: 4px;  
-    margin-top: auto;
-    margin-left: 1140px;
-  }
-  
+
   @import url(https://fonts.googleapis.com/css?family=Pacifico);
   @import url('https://fonts.googleapis.com/css?family=Anton');
   
@@ -15,8 +6,8 @@
   
   .container{
     background-color:#E0F2F1;
-    padding:10px;
-    border-radius:15px;
+    padding:1%;
+    border-radius:2%;
     box-shadow: 10px 10px 20px 0px rgba(0,0,0,0.75);
   }
   
@@ -94,10 +85,10 @@
   
   
   .skala {
-    width: 100%;
+    width: 40%;
     max-width: 425px;
-    height: 100%;
-    max-height: 545px;
+    height: 40%;
+    max-height: 445px;
   
   }
   .flip {
@@ -125,7 +116,7 @@ body {
 }
 
 .Butn {
-  border-radius: 12px;
+  border-radius: 1%;
 }
 
 .cursor{
