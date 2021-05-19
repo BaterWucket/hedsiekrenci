@@ -1,14 +1,13 @@
 
-# HedSieKrenci v1.3.6
+# HedSieKrenci v1.3.7
 
 Strona projektu: www.hedsiekrenci.xyz
 
 Strona Github: https://github.com/BaterWucket/hedsiekrenci/
 
 ## Dodano:
-- Przycisk "Donate"
 
-- Zmiany skalowania obrazków
+- Optymalizacja strony pod urządzenia mobilne
 
 ## Problemy:
 
@@ -23,6 +22,11 @@ Strona Github: https://github.com/BaterWucket/hedsiekrenci/
 
 
 ## Historia Updatów
+HedSieKrenci v1.3.6
+- Przycisk "Donate"
+
+- Zmiany skalowania obrazków
+
 HedSieKrenci v1.3.5
 - Dodano mapę witryny
 
