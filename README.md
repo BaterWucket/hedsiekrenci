@@ -1,5 +1,5 @@
 
-# HedSieKrenci v1.3.7
+# HedSieKrenci v1.3.8
 
 Strona projektu: www.hedsiekrenci.xyz
 
@@ -7,7 +7,7 @@ Strona Github: https://github.com/BaterWucket/hedsiekrenci/
 
 ## Dodano:
 
-- Optymalizacja strony
+- Emotki  i rzeczy żeby wkońcu dodali na binga
 
 ## Problemy:
 
@@ -22,6 +22,9 @@ Strona Github: https://github.com/BaterWucket/hedsiekrenci/
 
 
 ## Historia Updatów
+HedSieKrenci v1.3.7
+- Optymalizacja strony
+
 HedSieKrenci v1.3.6
 - Przycisk "Donate"
 
