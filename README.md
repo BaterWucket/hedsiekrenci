@@ -95,4 +95,4 @@ Lista działających przeglądarek: (muzyczka włącza się automatycznie)
 
 Mój discord: Bater wucket#3333
 
-.
+
