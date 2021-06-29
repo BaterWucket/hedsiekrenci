@@ -93,4 +93,4 @@ Lista działających przeglądarek: (muzyczka włącza się automatycznie)
  - Opera,
  - Microsoft Edge
 
-Mój discord: Bater wucket#0792
+Mój discord: Bater wucket#3333
