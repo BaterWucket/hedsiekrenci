@@ -5,6 +5,10 @@ Strona projektu: www.hedsiekrenci.xyz
 
 Strona Github: https://github.com/BaterWucket/hedsiekrenci/
 
+## Informacja:
+
+# Wkońcu kontynuacja developmentu strony!
+
 ## Dodano:
 
 - Emotki  i rzeczy żeby wkońcu dodali na binga
