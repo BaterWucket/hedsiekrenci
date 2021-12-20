@@ -9,7 +9,7 @@
     <img src="Hed.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">HedSieKrenci 1.3.8</h3>
+  <h3 align="center">HedSieKrenci 1.3.9</h3>
 
   <p align="center">
     Strona internetowa o hedzie co sie krenci
@@ -32,13 +32,13 @@
   <summary><h2 style="display: inline-block">Spis treści</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#O-projekcie">O Projekcie</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Zbudowane-przy-pomocy">Zbudowane przy pomocy</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#Ogólne">Ogólne</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -56,13 +56,13 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## O projekcje
 
 **2 Miesiące, tworzyłem tą stronę dla przyjaciół, teraz poprostu jest w google**
 
 
 
-### Built With
+### Zbudowane przy pomocy
 
 * [CSS]()
 * [HTML]()
@@ -71,7 +71,7 @@
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Ogólne
 
 
 
@@ -79,7 +79,8 @@
 <!-- USAGE EXAMPLES -->
 
 ## Do zrobienia:
-- [x] Muzyczka działa na telefonach
+- [x] Wysłanie E-maila do redakcji TvGry na temat strony
+- [x] Działanie Muzyki na Telefonach
 - [x] Własna domena
 - [ ] Dodanie zakładki "ustawienia"
 - [x] Dodanie zakładki "informacje"
@@ -94,13 +95,17 @@
 Lista działających przeglądarek: (muzyczka włącza się automatycznie)
  - Opera,
  - Microsoft Edge
-
+ - Vivaldi
+ - Każda oparta na Chromium
 
 
 <!-- CONTRIBUTING -->
 ## Historia
 
 ## Historia Updatów
+HedSieKrenci v1.3.8
+- Emotki  i rzeczy żeby wkońcu dodali na binga
+
 HedSieKrenci v1.3.7
 - Optymalizacja strony
 
@@ -178,7 +183,7 @@ Opublikowano pod licencją `cc-by-4.0.` Zobacz `LICENSE` po więcej informacji.
 <!-- CONTACT -->
 ## Kontakt
 
-Discord: BaterWucket#3333
+Discord: Bater wucket#3333
 
 Link do projektu: [https://github.com/BaterWucket/hedsiekrenci](https://github.com/BaterWucket/hedsiekrenci)
 
@@ -213,6 +218,6 @@ Link do projektu: [https://github.com/BaterWucket/hedsiekrenci](https://github.c
 
 ## Dodano:
 
-- Emotki  i rzeczy żeby wkońcu dodali na binga
+- Duży bugfix obecnych problemów
 
 ## Problemy:
