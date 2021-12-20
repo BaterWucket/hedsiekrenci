@@ -58,9 +58,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
 **2 Miesiące, tworzyłem tą stronę dla przyjaciół, teraz poprostu jest w google**
 
 
